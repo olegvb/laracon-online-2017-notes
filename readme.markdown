@@ -10,3 +10,5 @@ The organized links from the conference were collected by [luchaos](https://gith
 
 Feel free to do what you like with these, but if anything interesting comes of whatever
 you do with them, let me know.  :)
+
+![]({{site.baseurl}}/350x150.png)
